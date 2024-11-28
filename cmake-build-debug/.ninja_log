@@ -1,11 +1,9 @@
 # ninja log v6
-1552	2085	7544385385501980	untitled.exe	8913b60fb29ea469
+1384	1597	7545105727694880	untitled.exe	8913b60fb29ea469
 55	1468	7544275968393310	CMakeFiles/untitled.dir/Example1.cpp.obj	6840e83d34694671
 14	1128	7544288703053973	CMakeFiles/untitled.dir/Practice2.cpp.obj	6fdb41bec66be799
 31	944	7544290411868499	CMakeFiles/untitled.dir/Example2.cpp.obj	b4318572ef2429f
-169	1551	7544385371682603	CMakeFiles/untitled.dir/AppRunner.cpp.obj	9d8764b93fb43898
+30	1383	7545105714151119	CMakeFiles/untitled.dir/AppRunner.cpp.obj	9d8764b93fb43898
 31	1281	7544314856250828	CMakeFiles/untitled.dir/EasyTask.cpp.obj	3029c28971c38eb4
 17	1293	7544330411616926	CMakeFiles/untitled.dir/EasyTask/EasyTask1.cpp.obj	a0cedfdf1bd57f83
 36	230	7544326610841582	CMakeFiles/untitled.dir/EasyTask/Calculator.cpp.obj	f9bc5c68dc2e5a87
-66	1978	7544403037360831	CMakeFiles/untitled.dir/AppRunner.cpp.obj	9d8764b93fb43898
-1980	2312	7544403056485094	untitled.exe	8913b60fb29ea469

@@ -10,9 +10,11 @@ using namespace std;
 class StringReverse {
     public:
     string reverse(string s) {
+        char names[s.length()];
         for (int i = s.length() - 1; i >= 0; i--) {
-            cout << s[i];
+            names[i] = s[i];
         }
+        cout << names << endl;
         return s;
     }
 };

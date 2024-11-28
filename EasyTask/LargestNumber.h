@@ -18,7 +18,7 @@ class LargestNumber {
                     largest = arr[i];
                 }
             }
-            cout << largest << endl;
+            cout << "Largest Number: " << largest << endl;
             return largest;
       }
 };

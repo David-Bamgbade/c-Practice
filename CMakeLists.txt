@@ -13,4 +13,9 @@ add_executable(untitled AppRunner.cpp
         EasyTask/EvenOdd.h
         EasyTask/LargestNumber.h
         EasyTask/StringReverse.h
+        "Medium Task/ArrayOperations.h"
+        "Medium Task/VectorOperations.h"
+        "Medium Task/Person.h"
+        "Medium Task/StringPalindrome.h"
+        "Medium Task/Account.h"
 )
